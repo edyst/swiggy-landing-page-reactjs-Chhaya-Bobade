@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swiggy-landing-page-reactjs-Chhaya-Bobade/static/css/main.8a90c173.css",
+    "main.js": "/swiggy-landing-page-reactjs-Chhaya-Bobade/static/js/main.0fd87f39.js",
+    "index.html": "/swiggy-landing-page-reactjs-Chhaya-Bobade/index.html",
+    "main.8a90c173.css.map": "/swiggy-landing-page-reactjs-Chhaya-Bobade/static/css/main.8a90c173.css.map",
+    "main.0fd87f39.js.map": "/swiggy-landing-page-reactjs-Chhaya-Bobade/static/js/main.0fd87f39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a90c173.css",
+    "static/js/main.0fd87f39.js"
+  ]
+}
